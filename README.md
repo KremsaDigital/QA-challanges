@@ -1,4 +1,4 @@
-# Buggy Todo Challange
+# Buggy Todo Challenge
 
 ## Instructions
 ### How to attempt this challenge:
