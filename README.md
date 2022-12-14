@@ -1,4 +1,4 @@
-# QA-challanges
+# Buggy Todo Challange
 
 ## Instructions
 ### How to attempt this challenge:
